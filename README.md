@@ -1,5 +1,6 @@
 # Stock_Market_Prediction_And_Forecasting_Using_Bidirectional_LSTM_RNN
 
+![image](https://github.com/vaibhavdangar09/Stock_Market_Prediction_And_Forecasting_Using_Bidirectional_LSTM_RNN/assets/85430510/6a915114-6777-4c88-8f90-224768a0c324)
 
 
 
